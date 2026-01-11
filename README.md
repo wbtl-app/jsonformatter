@@ -1,5 +1,16 @@
-# jsonformatter
+# JSON Formatter
 
-A wbtl.app tool.
+A JSON formatting, validation, and minification tool.
 
-Visit: https://jsonformatter.wbtl.app
+## Development
+
+This tool has no build dependencies. Edit `dist/index.html` directly.
+
+## Output
+
+Production files are in the `dist/` folder:
+- `dist/index.html` - Main application
+
+## Deploy
+
+Copy the contents of `dist/` to any static hosting service.
